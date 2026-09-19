@@ -182,3 +182,8 @@ Example execution:
 
 ```sql
 CALL sp_MonthlySummary('2024-01');
+
+
+## Published Tableau Dashboard
+
+[View the live Tableau Public Dashboard](https://public.tableau.com/app/profile/subham.kumar7465/viz/Food_Delivery_Business_Analytics_Portable/ExecutiveBusinessAnalyticsDashboard?publish=yes)
