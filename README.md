@@ -12,7 +12,7 @@ The project demonstrates practical skills in SQL, database normalization, busine
 
 The final Tableau dashboard provides an executive-level view of food delivery business performance, including revenue, orders, customer satisfaction, delivery performance, product performance, regional performance, and operational factors.
 
-![Executive Business Analytics Dashboard](Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ## Technology Stack
 
@@ -68,7 +68,7 @@ Customer preferences
 
 The project follows a structured data pipeline from raw data to business intelligence reporting.
 
-![SQL to Tableau Architecture](Documentation/SQL_to_Tableau_Architecture.png)
+![SQL to Tableau Architecture](SQL_to_Tableau_Architecture.png)
 
 The overall flow is:
 
@@ -112,7 +112,7 @@ raw_food_delivery
 
 Staging table containing the original imported dataset.
 
-![MySQL Database Schema](Screenshots/02_Database_Schema.png)
+![MySQL Database Schema](Database_Schema.png)
 
 ## Reporting Views
 
@@ -160,7 +160,7 @@ Regional customer ranking
 
 The following analysis compares monthly revenue with the previous month and calculates month-over-month growth.
 
-![Advanced SQL Analysis](Screenshots/03_Advanced_SQL_CTE_LAG_MoM.png)
+![Advanced SQL Analysis](Advanced_SQL_CTE_LAG_MoM.png)
 
 ## Stored Procedure
 
